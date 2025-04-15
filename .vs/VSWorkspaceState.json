@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\BlogApi",
-    "\\BlogApi\\Controllers"
+    "\\BlogApi\\Controllers",
+    "\\BlogApi\\Data"
   ],
-  "SelectedNode": "\\BlogApi\\Controllers\\ContactController.cs",
   "PreviewInSolutionExplorer": false
 }
