@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ali-q\\OneDrive\\Masa\u00FCst\u00FC\\GitBlogApi\\bg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ali-q\\OneDrive\\Masa\u00FCst\u00FC\\GitBlogApi\\bg\\BlogApi\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogApi\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ali-q\\OneDrive\\Masa\u00FCst\u00FC\\GitBlogApi\\bg\\BlogApi\\Controllers\\BlogController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogApi\\Controllers\\BlogController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\ali-q\\OneDrive\\Masa\u00FCst\u00FC\\GitBlogApi\\bg\\BlogApi\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "BlogApi\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\ali-q\\OneDrive\\Masa\u00FCst\u00FC\\GitBlogApi\\bg\\BlogApi\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "BlogApi\\Controllers\\ContactController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAABNAAAA",
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ali-q\\OneDrive\\Masa\u00FCst\u00FC\\GitBlogApi\\bg\\BlogApi\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ali-q\\OneDrive\\Masa\u00FCst\u00FC\\GitBlogApi\\bg\\BlogApi\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "BlogApi\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T11:22:10.056Z",
+              "WhenOpened": "2025-04-15T11:59:17.274Z",
               "EditorCaption": ""
             }
           ]
