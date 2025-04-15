@@ -5145,11 +5145,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ali-q\\source\\repos\\BlogApi\\BlogApi\\BlogApi.csproj",
+      "projectUniqueName": "C:\\Users\\ali-q\\OneDrive\\Masaüstü\\GitBlogApi\\bg\\BlogApi\\BlogApi.csproj",
       "projectName": "BlogApi",
-      "projectPath": "C:\\Users\\ali-q\\source\\repos\\BlogApi\\BlogApi\\BlogApi.csproj",
+      "projectPath": "C:\\Users\\ali-q\\OneDrive\\Masaüstü\\GitBlogApi\\bg\\BlogApi\\BlogApi.csproj",
       "packagesPath": "C:\\Users\\ali-q\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ali-q\\source\\repos\\BlogApi\\BlogApi\\obj\\",
+      "outputPath": "C:\\Users\\ali-q\\OneDrive\\Masaüstü\\GitBlogApi\\bg\\BlogApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ali-q\\AppData\\Roaming\\NuGet\\NuGet.Config",
